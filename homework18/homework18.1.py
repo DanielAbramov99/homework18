@@ -121,9 +121,3 @@ tuple_names = tuple(name_list)
 tuple_scores = tuple(score_list)
 combined_tuple = tuple(zip(tuple_names, tuple_scores))
 print(combined_tuple)
-
-
-tuple_names = tuple(name_list)
-tuple_scores = tuple(score_list)
-combined_tuple = tuple(zip(tuple_names, tuple_scores))
-print(combined_tuple)
